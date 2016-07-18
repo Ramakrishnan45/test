@@ -1,0 +1,10 @@
+EcoreTools	http://download.eclipse.org/ecoretools/updates/nightly/3.0.x/mars	Enabled
+ECP	http://download.eclipse.org/ecp/releases/releases_19	Enabled
+EMFStore 1.8 Release Candidates	http://download.eclipse.org/emf-store/releases_18	Enabled
+http://www.eclipse.org/ecp/documentation.html
+http://download.eclipse.org/ecp/releases/javadoc/index.html
+http://eclipsesource.com/blogs/tutorials/tutorialshow-to-customize-the-emf-client-platform/
+
+
+https://www4.in.tum.de/~schaetz/PETE/install.html
+https://www4.in.tum.de/~schaetz/PETE/PETEFrame.html
